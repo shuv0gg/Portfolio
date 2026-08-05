@@ -2,11 +2,6 @@
 
 A premium, responsive developer portfolio web application built with **Flutter** and **GetX Architecture**, featuring high-fidelity size and color transition animations. 
 
-## 📝 GitHub Repository Description (Copy-paste)
-> A premium, responsive developer portfolio web application built with Flutter & GetX architecture, featuring high-fidelity custom size and color transition animations.
-
----
-
 ## ✨ Features
 
 * **GetX Architecture**: Structured using clean, modular GetX patterns (Controllers, Bindings, and Routing) to decouple business logic from the UI.
